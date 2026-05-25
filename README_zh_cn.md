@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <a href="https://hunyuan.tencent.com/motion" target="_blank">
+  <a href="https://aistudio.tencent.com/motion" target="_blank">
     <img src="https://img.shields.io/badge/Official%20Site-333399.svg?logo=homepage" height="22px" alt="官方网站">
   </a>
   <a href="https://github.com/Tencent-Hunyuan/HY-Motion-1.0" target="_blank">
